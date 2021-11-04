@@ -1,6 +1,6 @@
 {
   "name": "@enroly/react-data-grid",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "description": "Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like",
   "keywords": [
